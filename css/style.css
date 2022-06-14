@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    background-color: blueviolet;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fm{
+    margin: 100px 0px 0px 500px ;
+    background-color: rgb(43, 126, 126);
+}
+body{
+    
+
+}
+.logo-part {
+
+}
+.logo-part img {
+width: 30%;
+border-radius: 50%;
+padding: 30px;
+margin: 0px 0px 0px 50px;
+}
+.User-Name{
+    border-radius: 8px;
+    color: yellow;
+
+}
+.User-Name input{
+    padding: 8px;
+    width: 40%;
+    color: rgb(178, 209, 0);
+}
+.password{
+
+}
+.password input{
+   padding: 8px; 
+   width:40% ;
+}
+.Cheakbox-Part{
+   
+}
+.Cheakbox-Part label{
+    margin-left: 50px;
+}
+.Cheakbox-Part a{
+color: brown;
+}
+.Soni{
+
+}
+.Soni input{
+    
+}
+.button{
+    padding: 8px;
+    width: 40%;
+    border-radius: 8px;
+    margin: 10px 0px 10px 0px;
+    color: pink;
+    background-color: black;
+}
